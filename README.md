@@ -4,5 +4,5 @@
   </a>
 </p>
 <h3 align="center">
-  moving in silence
+  AFK
 </h3>
